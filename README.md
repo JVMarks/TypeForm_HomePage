@@ -15,7 +15,6 @@
 </p>
 
 ## Techs
-
 - [x] React.js
 - [x] TypeScript
 - [x] Frame Motion
